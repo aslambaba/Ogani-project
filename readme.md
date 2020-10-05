@@ -1,5 +1,5 @@
 ### Deploy on Surge !!
-- aslambaba-ogani-project.surge.sh
+- aslambaba-ogani-project.netlify.app
 
 ### Using Languages
 - HTML5
